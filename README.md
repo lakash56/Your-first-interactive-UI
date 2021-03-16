@@ -1,3 +1,3 @@
 # Your-first-interactive-UI
 
-<img src="task-6.jpg" width="150">
+<img src="Task-6.jpg" width="150">
